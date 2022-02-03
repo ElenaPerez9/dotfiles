@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elenaperezrodriguez@gmail.com
+	name = elena perez
